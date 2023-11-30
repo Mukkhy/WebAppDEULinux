@@ -1,0 +1,7 @@
+C:\Users\jikunchen\source\repos\WebAppDEULinux\obj\Release\net7.0\PubTmp\Out\WebAppDEULinux.exe
+C:\Users\jikunchen\source\repos\WebAppDEULinux\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jikunchen\source\repos\WebAppDEULinux\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\jikunchen\source\repos\WebAppDEULinux\obj\Release\net7.0\PubTmp\Out\WebAppDEULinux.dll
+C:\Users\jikunchen\source\repos\WebAppDEULinux\obj\Release\net7.0\PubTmp\Out\WebAppDEULinux.deps.json
+C:\Users\jikunchen\source\repos\WebAppDEULinux\obj\Release\net7.0\PubTmp\Out\WebAppDEULinux.runtimeconfig.json
+C:\Users\jikunchen\source\repos\WebAppDEULinux\obj\Release\net7.0\PubTmp\Out\WebAppDEULinux.pdb
